@@ -1,0 +1,24 @@
+.parent-dropdown{
+    position: relative;
+}
+.second-dropdown{
+    background-color: mintcream;
+    position: absolute;
+    left: 140px;
+    top: -35px;
+}
+.third-dropdown{
+    background-color: rgb(237, 243, 240);
+    position: absolute;
+    left: 140px;
+    top: -35px;
+}
+.dropdown-menu{
+    border: none;
+}
+.form-wrapper{
+    border: 1px solid rgb(226, 226, 226);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 10px 20px #c0c0c0;
+}
